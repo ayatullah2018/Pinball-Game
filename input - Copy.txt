@@ -1,0 +1,38 @@
+150 20 150 0
+24
+Wall 1
+Wall 700
+Ceiling 1
+Floor 0
+Floor 425
+Kicker 100 500
+Kicker 500 500
+Gate 100 100 30 40
+Gate 200 100 30 40
+Gate 300 100 30 40
+Switch 500 300 30 40
+Switch 600 300 30 40
+PopBumper 100 330 30
+VibraniumBumper 100 200 30
+ThrustBumpers 180 200 30
+SpecialKicker 400 500
+SpeedBoosters 290 300 70 90
+Collectables 500 400 22 24 1
+Collectables 315 200 30 35 2
+Collectables 200 500 40 40 3
+Collectables 600 500 40 40 4
+Collectables 350 550 40 40 4
+Collectables 120 600 40 40 5
+Portals 100 100 200 200 10 50
+===========
+Portals 100 100 500 200 10 50
+SpeedBoosters 290 300 70 
+Kicker 530 400 600 400 600 300
+Bullsyes 400 100 400 0
+SpecialKicker 200 400 130 400 130 300
+ThrustBumpers 180 200 30
+PopBumper 330 150 30
+VibraniumBumper 330 500 30
+Gate 600 500 100 40
+
+
